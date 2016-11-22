@@ -1,2 +1,2 @@
 # MyEasy2Lg
-Generating script for EasyCode-Projects
+Generate-script for EasyCode-Projects
